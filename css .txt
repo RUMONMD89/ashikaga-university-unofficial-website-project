@@ -1,0 +1,19 @@
+*{
+	margin: 0;
+	padding: 0;
+
+}
+
+.main{width:960px;margin:0 auto;background:linear-gradient(to top, rgba(247, 238, 238, 0.5)50%,rgba(236, 224, 224, 0.5)50%), url(ne1.jpg)}
+body{background:lightgreen;background:url(freshgif/ne1.jpg)}
+	.header{}
+	.header img{width:50%;height:400}
+	.mainmenu{background:red}
+	.mainmenu ul{margin:0;padding:0;list-style:none}
+	.mainmenu ul li{display:inline-block}
+	.mainmenu ul li a{color:white;padding:15px;display:inline-block;text-decoration:none}
+	.mainmenu ul li a:hover{background:black}
+	.maincontent{overflow:hidden;padding:20px}
+	.content{width:510px;float:left}
+	.sidebar{width:300px;float:right}
+	.mainfooter{background:url(freshgif/f1.gif);color:rgb(12, 10, 10);padding:25px}
