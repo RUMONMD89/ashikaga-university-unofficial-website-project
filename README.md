@@ -4,4 +4,4 @@
 ### wait project gif file being loaded here... ###
 <img src="execution result .gif" width="800px">
 
-### thanks for watch ###
+### thanks for watching ###
